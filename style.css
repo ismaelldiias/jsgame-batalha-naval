@@ -1,0 +1,40 @@
+.conjunto{
+display: flex;
+align-items: center;
+justify-content: center;
+margin: 0px;
+
+}
+
+.quadrado{
+display: flex;
+background-color: white;
+height: 99px;
+width: 99px;
+align-items: center;
+justify-content: center;
+margin: 5px;
+font-size: 90px;
+}
+
+.cabecalho{
+display: flex;
+background-color: white;
+height: 99px;
+width: 99px;
+align-items: center;
+justify-content: center;
+margin: 5px;
+font-size: 50px;
+color: black;
+}
+
+div {
+margin: 0px;
+}
+
+body {
+background-color: #00A2E8;
+background-image: url('img/mar.png');
+}
+
