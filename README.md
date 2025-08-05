@@ -1,7 +1,7 @@
 ## 🎮 JSGAME Batalha Naval
 
 <p align="center">
-  <img src="https://github.com/ismaelldiias/jsgame-batalha-naval/img/logo.gif" alt="JSGame Batalha Naval">
+  <img src="img/logo.gif" alt="JSGame Batalha Naval">
 </p>
 
 Bem-vindo ao **JSGame Batalha Naval**! Um jogo simples e divertido para jogar com seus amigos, inspirado no clássico jogo de estratégia Batalha Naval.
