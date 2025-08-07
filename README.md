@@ -1,4 +1,4 @@
-## 🎮 JSGAME Batalha Naval
+## 🎮 JSGame Batalha Naval
 
 <p align="center">
   <img src="img/logo.gif" alt="JSGame Batalha Naval" widht="250px" height="250px">
